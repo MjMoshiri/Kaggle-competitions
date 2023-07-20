@@ -6,5 +6,5 @@ each competition has its own folder. The folder name is the same as the competit
 - `notebook.ipynb`: a jupyter notebook file that contains the code I used to solve the competition problem.
 - 'train.csv': a csv file that contains the training data.
 - 'test.csv': a csv file that contains the test data.
-- 'submission_dataVersion_modelName.csv': a csv file that contains the submission data using the version of the data and the model name in the file name.
+- 'submission_dataInfo_modelName.csv': a csv file that contains the submission data using the version of the data and the model name in the file name.
 
